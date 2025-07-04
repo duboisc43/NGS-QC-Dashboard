@@ -1,5 +1,5 @@
 # 🧬 NGS QC Dashboard
-![Screenshot of the Streamlit App](screenshot.png)
+![Screenshot of the Streamlit App](Screenshot.png)
 
 
 An interactive dashboard for visualizing and analyzing quality control metrics in Next-Generation Sequencing (NGS) workflows. Built with **Streamlit** and **Pandas**, this tool allows you to explore batch-level QC data using boxplots, heatmaps, and control metrics.
