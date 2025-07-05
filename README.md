@@ -9,7 +9,7 @@ An interactive dashboard for visualizing and analyzing quality control metrics i
 ## 🚀 Features
 
 - 📊 Batch QC visualizations (boxplots, histograms, Altair charts)
-- 🧪 Compare Seracare controls across experiments
+- 🧪 Compare Samples & controls across experiments
 - 📁 Upload and parse CSV, Excel, or Parquet files
 - 💡 Clean UI with real-time interactivity (built with Streamlit)
 - ☁️ Ready for deployment on [Streamlit Cloud](https://streamlit.io/cloud)
